@@ -1,4 +1,4 @@
-In week 2, the concept of linear regression was covered extensively. \n
+In week 2, the concept of linear regression was covered extensively.
 The analytical approach behind linear regression computation was described along with explantion of 
 how linear regression model can be extended to multiple input features. \n
 Programming using Octave and MATLAB was also introduced with some familiarity in general syntax rules.
